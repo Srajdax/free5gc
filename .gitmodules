@@ -100,3 +100,6 @@
 [submodule "src/gnb"]
 	path = src/gnb
 	url = https://github.com/Srajdax/gnb.git
+[submodule "free5gc-cli"]
+	path = free5gc-cli
+	url = https://github.com/Srajdax/free5gc-cli.git
